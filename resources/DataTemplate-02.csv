@@ -1,0 +1,513 @@
+Bit Num,Byte Num,Description,Name,Value
+1,1,Signal 10/30 Route Available,10-30-UAKR,0
+2,1,Signal 10/26 Route Available,10-26-UAKR,0
+3,1,Signal 15/6 A Route Available,15-6A-UAKR,0
+4,1,Signal 15/6 B Route Available,15-6B-UAKR,0
+5,1,Signal 15/10 Route Available,15-10-UAKR,0
+6,1,Signal 15/12 Route Available,15-12-UAKR,0
+7,1,Signal 15/30 Route Available,15-30-UAKR,0
+8,1,Signal 15/26 Route Available,15-26-UAKR,0
+9,2,Signal 20/6 A Route Available,20-6A-UAKR,0
+10,2,Signal 20/6 B Route Available,20-6B-UAKR,0
+11,2,Signal 20/6 C Route Available,20-6C-UAKR,0
+12,2,Signal 20/6 D Route Available,20-6D-UAKR,0
+13,2,Signal 20/6 E Route Available,20-6E-UAKR,0
+14,2,Signal 20/10 Route Available,20-10-UAKR,0
+15,2,Signal 20/12 Route Available,20-12-UAKR,0
+16,2,Signal 20/14 Route Available,20-14-UAKR,0
+17,3,Signal 20/16 Route Available,20-16-UAKR,0
+18,3,Signal 20/20 Route Available,20-20-UAKR,0
+19,3,Signal 20/30 Route Available,20-30-UAKR,0
+20,3,Signal 20/32 Route Available,20-32-UAKR,0
+21,3,Signal 20/34 Route Available,20-34-UAKR,0
+22,3,Signal 20/36 Route Available,20-36-UAKR,0
+23,3,Signal 20/40 Route Available,20-40-UAKR,0
+24,3,Signal 20/26 A Route Available,20-26A-UAKR,0
+25,4,Signal 20/26 B Route Available,20-26B-UAKR,0
+26,4,Signal 20/26 C Route Available,20-26C-UAKR,0
+27,4,SPARE,SPARE,0
+28,4,SPARE,SPARE,0
+29,4,SPARE,SPARE,0
+30,4,SPARE,SPARE,0
+31,4,SPARE,SPARE,0
+32,4,SPARE,SPARE,0
+33,5,Signal 10/30 Stop,10-30-NGP,0
+34,5,Signal 10/30 Main Arm Proceed,10-30-RGP,0
+35,5,Signal 10/30 Route Normal,10-30-NLR,0
+36,5,Signal 10/30 Blocked,10-30-BLZR,0
+37,5,Signal 10/26 Stop,10-26-NGP,0
+38,5,Signal 10/26 Main Arm Proceed,10-26-RGP,0
+39,5,Signal 10/26 Route Normal,10-26-NLR,0
+40,5,Signal 10/26 Blocked,10-26-BLZR,0
+41,6,Signal 15/6 Stop,15-6-NGP,0
+42,6,Signal 15/6 Main Arm Proceed,15-6-RGP,0
+43,6,Signal 15/6 Low Speed Proceed,C15-6-RGP,0
+44,6,Signal 15/6 A Route Normal,15-6A-NLR,0
+45,6,Signal 15/6 B Route Normal,15-6B-NLR,0
+46,6,Signal 15/6 Blocked,15-6-BLZR,0
+47,6,Signal 15/10 Stop,15-10-NGP,0
+48,6,Signal 15/10 Main Arm Proceed,15-10-RGP,0
+49,7,Signal 15/10 Route Normal,15-10-NLR,0
+50,7,Signal 15/10 Blocked,15-10-BLZR,0
+51,7,Signal 15/12 Stop,15-12-NGP,0
+52,7,Signal 15/12 Main Arm Proceed,15-12-RGP,0
+53,7,Signal 15/12 Route Normal,15-12-NLR,0
+54,7,Signal 15/12 Blocked,15-12-BLZR,0
+55,7,Signal 15/30 Stop,15-30-NGP,0
+56,7,Signal 15/30 Main Arm Proceed,15-30-RGP,0
+57,8,Signal 15/30 Route Normal,15-30-NLR,0
+58,8,Signal 15/30 Blocked,15-30-BLZR,0
+59,8,Signal 15/26 Stop,15-26-NGP,0
+60,8,Signal 15/26 Main Arm Proceed,15-26-RGP,0
+61,8,Signal 15/26 Route Normal,15-26-NLR,0
+62,8,Signal 15/26 Blocked,15-26-BLZR,0
+63,8,Signal 20/6 Stop,20-6-NGP,0
+64,8,Signal 20/6 Main Arm Proceed,20-6-RGP,0
+65,9,Signal 20/6 Low Speed Proceed,C20-6-RGP,0
+66,9,Signal 20/6 A Route Normal,20-6A-NLR,0
+67,9,Signal 20/6 B Route Normal,20-6B-NLR,0
+68,9,Signal 20/6 C Route Normal,20-6C-NLR,0
+69,9,Signal 20/6 D Route Normal,20-6D-NLR,0
+70,9,Signal 20/6 E Route Normal,20-6E-NLR,0
+71,9,Signal 20/6 Blocked,20-6-BLZR,0
+72,9,Signal 20/10 Stop,20-10-NGP,0
+73,10,Signal 20/10 Main Arm Proceed,20-10-RGP,0
+74,10,Signal 20/10 Route Normal,20-10-NLR,0
+75,10,Signal 20/10 Blocked,20-10-BLZR,0
+76,10,Signal 20/12 Stop,20-12-NGP,0
+77,10,Signal 20/12 Main Arm Proceed,20-12-RGP,0
+78,10,Signal 20/12 Route Normal,20-12-NLR,0
+79,10,Signal 20/12 Blocked,20-12-BLZR,0
+80,10,Signal 20/14 Stop,20-14-NGP,0
+81,11,Signal 20/14 Main Arm Proceed,20-14-RGP,0
+82,11,Signal 20/14 Route Normal,20-14-NLR,0
+83,11,Signal 20/14 Blocked,20-14-BLZR,0
+84,11,Signal 20/16 Stop,20-16-NGP,0
+85,11,Signal 20/16 Main Arm Proceed,20-16-RGP,0
+86,11,Signal 20/16 Route Normal,20-16-NLR,0
+87,11,Signal 20/16 Blocked,20-16-BLZR,0
+88,11,Signal 20/20 Stop,20-20-NGP,0
+89,12,Signal 20/20 Main Arm Proceed,20-20-RGP,0
+90,12,Signal 20/20 Route Normal,20-20-NLR,0
+91,12,Signal 20/20 Blocked,20-20-BLZR,0
+92,12,Signal 20/30 Stop,20-30-NGP,0
+93,12,Signal 20/30 Main Arm Proceed,20-30-RGP,0
+94,12,Signal 20/30 Route Normal,20-30-NLR,0
+95,12,Signal 20/30 Blocked,20-30-BLZR,0
+96,12,Signal 20/32 Stop,20-32-NGP,0
+97,13,Signal 20/32 Main Arm Proceed,20-32-RGP,0
+98,13,Signal 20/32 Route Normal,20-32-NLR,0
+99,13,Signal 20/32 Blocked,20-32-BLZR,0
+100,13,Signal 20/34 Stop,20-34-NGP,0
+101,13,Signal 20/34 Main Arm Proceed,20-34-RGP,0
+102,13,Signal 20/34 Route Normal,20-34-NLR,0
+103,13,Signal 20/34 Blocked,20-34-BLZR,0
+104,13,Signal 20/36 Stop,20-36-NGP3,0
+105,14,Signal 20/36 Low Speed Proceed,20-36-RGP3,0
+106,14,Signal 20/36 Route Normal,20-36-NLR,0
+107,14,Signal 20/40 Stop,20-40-NGP3,0
+108,14,Signal 20/40 Low Speed Proceed,20-40-RGP3,0
+109,14,Signal 20/40 Route Normal,20-40-NLR,0
+110,14,Signal 20/26 Stop,20-26-NGP,0
+111,14,Signal 20/26 Main Arm Proceed,20-26-RGP,0
+112,14,Signal 20/26 Low Speed Proceed,C20-26-RGP,0
+113,15,Signal 20/26 A Route Normal,20-26A-NLR,0
+114,15,Signal 20/26 B Route Normal,20-26B-NLR,0
+115,15,Signal 20/26 C Route Normal,20-26C-NLR,0
+116,15,Signal 20/26 Blocked,20-26-BLZR,0
+117,15,SPARE,SPARE,0
+118,15,SPARE,SPARE,0
+119,15,SPARE,SPARE,0
+120,15,SPARE,SPARE,0
+121,16,Points 11 Normal Detection,11-NWPP,1
+122,16,Points 11 Reverse Detection,11-RWPP,0
+123,16,Points 11 Locked,11-WZR,0
+124,16,Points 11 In Hand,11-JP,0
+125,16,Points 11 Timer Alarm (NUIP),11-WNP,0
+126,16,Points 31 Normal Detection,31-NLP3,0
+127,16,Points 7 Normal Detection,7-NWPP2,1
+128,16,Points 7 Reverse Detection,7-RWPP2,0
+129,17,Points 7 Locked,7-WZR,0
+130,17,Points 7 In Hand,7-JP2,0
+131,17,Points 7 Timer Alarm (NUIP),7-WNP2,0
+132,17,Points 15 Normal Detection,15-NWPP2,1
+133,17,Points 15 Reverse Detection,15-RWPP2,0
+134,17,Points 15 Locked,15-WZR,0
+135,17,Points 15 In Hand,15-JP2,0
+136,17,Points 15 Timer Alarm (NUIP),15-WNP2,0
+137,18,Points 17 Normal Detection,17-NWPP2,1
+138,18,Points 17 Reverse Detection,17-RWPP2,0
+139,18,Points 17 Locked,17-WZR,0
+140,18,Points 17 In Hand,17-JP2,0
+141,18,Points 17 Timer Alarm (NUIP),17-WNP2,0
+142,18,Points 19 Normal Detection,19-NWPP2,1
+143,18,Points 19 Reverse Detection,19-RWPP2,0
+144,18,Points 19 Locked,19-WZR,0
+145,19,Points 19 In Hand,19-JP2,0
+146,19,Points 19 Timer Alarm (NUIP),19-WNP2,0
+147,19,Points 21 Normal Detection,21-NWPP,1
+148,19,Points 21 Reverse Detection,21-RWPP,0
+149,19,Points 21 Locked,21-WZR,0
+150,19,Points 21 In Hand,21-JP,0
+151,19,Points 21 Timer Alarm (NUIP),21-WNP,0
+152,19,Points 23 Normal Detection,23-NWPP2,1
+153,20,Points 23 Reverse Detection,23-RWPP2,0
+154,20,Points 23 Locked,23-WZR,0
+155,20,Points 23 In Hand,23-JP2,0
+156,20,Points 23 Timer Alarm (NUIP),23-WNP2,0
+157,20,Points 27 Normal Detection,27-NWPP2,1
+158,20,Points 27 Reverse Detection,27-RWPP2,0
+159,20,Points 27 Locked,27-WZR,0
+160,20,Points 27 In Hand,27-JP2,0
+161,21,Points 27 Timer Alarm (NUIP),27-WNP2,0
+162,21,Points 29 Normal Detection,29-NWPP2,1
+163,21,Points 29 Reverse Detection,29-RWPP2,0
+164,21,Points 29 Locked,29-WZR,0
+165,21,Points 29 In Hand,29-JP2,0
+166,21,Points 29 Timer Alarm (NUIP),29-WNP2,0
+167,21,SPARE,SPARE,0
+168,21,SPARE,SPARE,0
+169,22,Track GGG456T Clear,456-TPP,0
+170,22,Track GGG456T Timed Indication,C10-30-NP,0
+171,22,Track GGG1030T Clear,10-30-S,0
+172,22,Track GGG1028T Clear,10-26-S,0
+173,22,Track GGG457T Clear,457-TPP,0
+174,22,Track GGG457T Timed Indication,C15-6-NP,0
+175,22,Track 11T Clear,15-6-S,0
+176,22,Track GGG564T Clear,564-TPP,0
+177,23,Track GGG564T Timed Indication,C15-10-NP,0
+178,23,Track 31T Clear,31-TKP,0
+179,23,Track GGG1530T Clear,15-26-S,0
+180,23,Track GGG584T Clear,584-TPP,0
+181,23,Track GGG584T Timed Indication,C20-6-NP,0
+182,23,Track 206T Clear,20-6-S,0
+183,23,Track 208T Clear,208-TPP,0
+184,23,Track 7T Clear,7-TPP,0
+185,24,Track 17T Clear,20-14-S,0
+186,24,Track 21T Clear,20-16-S,0
+187,24,Track 2010T Clear,20-10-S,0
+188,24,Track 2012T Clear,20-12-S,0
+189,24,Track A2014T Clear,A2014-TPP,0
+190,24,Track A2016T Clear,A2016-TPP,0
+191,24,Track A2020T Clear,A2020-TPP,0
+192,24,Track 6T Clear,6-TPP,0
+193,25,Track 6T Timed Indication,C20-10-NP,0
+194,25,Track 26T Clear,26-TPP,0
+195,25,Track 26T Timed Indication,C20-12-NP,0
+196,25,Track A2036T Clear,A2036-TPP,0
+197,25,Track A2036T Timed Indication,C20-36-NP,0
+198,25,Track 2036T Clear,20-36-S,0
+199,25,Track 2030T Clear,20-30-S,0
+200,25,Track 2032T Clear,20-32-S,0
+201,26,Track 27T Clear,20-26-S,0
+202,26,Track 29T Clear,20-34-S,0
+203,26,Track GGG802T Track Clear,802-TPP2,0
+204,26,Track GGG802T Timed Indication,C20-26-NP,0
+205,26,Signal 20/26 Approach Clear (NUIP),20-26-AR2,0
+206,26,SPARE,SPARE,0
+207,26,SPARE,SPARE,0
+208,26,SPARE,SPARE,0
+209,27,Champion Road Level Crossing Clear,CR-FCP3,0
+210,27,Champion Road Boom Barriers Down,CR-FGNPP3,0
+211,27,Maddox Road Level Crossing Clear,MR-FCP3,0
+212,27,Maddox Road Boom Barriers Down,MR-FGNPP3,0
+213,27,Maidstone Street Level Crossing Clear,MS-FCP3,0
+214,27,Maidstone Street Boom Barriers Down,MS-FGNPP3,0
+215,27,LVL-MAN Block Free (NUIP),30_32_34-BR,0
+216,27,LVL-MAN Block Claimed (NUIP),30_32_34-DBR,0
+217,28,MAN-LVL Traffic (NUIP),802-FRA,0
+218,28,SPARE,SPARE,0
+219,28,SPARE,SPARE,0
+220,28,SPARE,SPARE,0
+221,28,SPARE,SPARE,0
+222,28,SPARE,SPARE,0
+223,28,SPARE,SPARE,0
+224,28,SPARE,SPARE,0
+225,29,Up End (206ZB) Generator On,GEN-ONP2,0
+226,29,Up End (206ZB) Generator Low Oil,LOW-OILP2,0
+227,29,Up End (206ZB) Generator High Temp.,HI-TEMP3,0
+228,29,Up End (206ZB) Generator Trip,GEN-TRIP3,0
+229,29,Up End (206ZB) Generator Run,GEN-RUNP2,0
+230,29,Down End (2030ZB) Generator On ,GEN-OKP2,0
+231,29,Down End (2030ZB) Generator Fail,GEN-FAILP2,0
+232,29,SPARE,SPARE,0
+233,30,SCT Flashing Lights and Siren Control (NUIP),SCT-1WCP,0
+234,30,SCT Flashing Lights and Siren Indicator (NUIP),SCT-1WXP2,0
+235,30,Gate 22 Closed (NUIP),22-GCP3,0
+236,30,Gate 22 Opened (NUIP),22-OGP3,0
+237,30,Gate 24 Closed (NUIP),24-GCP3,0
+238,30,Gate 24 Opened (NUIP),24-OGP3,0
+239,30,Derail 19 SCT Released,19-YR,0
+240,30,Derail 23 SCT Released,23-YR,0
+241,31,Derail 29 SCT Released,29-YR,0
+242,31,Derail 19 SCT Blocked (NUIP),19-BLZR,0
+243,31,Derail 23 SCT Blocked (NUIP),23-BLZR,0
+244,31,Derail 29 SCT Blocked (NUIP),29-BLZR,0
+245,31,Derail 19 SCT Release Normal (NUIP),19-NYR,0
+246,31,Derail 23 SCT Release Normal (NUIP),23-NYR,0
+247,31,Derail 29 SCT Release Normal (NUIP),29-NYR,0
+248,31,SPARE,SPARE,0
+249,32,724AR Power Healthy,724-POP2,0
+250,32,724AR Site Healthy,724-HLTP,0
+251,32,724AR Ethernet Switch Healthy,724-ESWP2,0
+252,32,10/30ZB Power Healthy,1030-POP2,0
+253,32,10/30ZB Site Healthy,1030-HLTP,0
+254,32,10/30ZB Ethernet Switch Healthy,1030-ESWP2,0
+255,32,10/30ZB Signal Lamp Healthy,1030-ECP,0
+256,32,10/28ZB Power Healthy,1028-POP2,0
+257,33,10/28ZB Site Healthy,1028-HLTP,0
+258,33,10/28ZB Ethernet Switch Healthy,1028-ESWP2,0
+259,33,10/26ZB Power Healthy,1026-POP2,0
+260,33,10/26ZB Site Healthy,1026-HLTP,0
+261,33,10/26ZB Ethernet Switch Healthy,1026-ESWP2,0
+262,33,10/26ZB Signal Lamp Healthy,1026-ECP,0
+263,33,15/10ZB Power Healthy,1510-POP2,0
+264,33,15/10ZB Site Healthy,1510-HLTP,0
+265,34,15/10ZB Ethernet Switch Healthy,1510-ESWP2,0
+266,34,15/10ZB Signal Lamp Healthy,1510-ECP,0
+267,34,15/30ZB Power Healthy,1530-POP2,0
+268,34,15/30ZB Site Healthy,1530-HLTP,0
+269,34,15/30ZB Ethernet Switch Healthy,1530-ESWP2,0
+270,34,15/30ZB Signal Lamp Healthy,1530-ECP,0
+271,34,15/26ZB Power Healthy,1526-POP2,0
+272,34,15/26ZB Site Healthy,1526-HLTP,0
+273,35,15/26ZB Ethernet Switch Healthy,1526-ESWP2,0
+274,35,15/26ZB Signal Lamp Healthy,1526-ECP,0
+275,35,20/6ZB Power Healthy,206-POP2,0
+276,35,20/6ZB Site Healthy,206-HLTP,0
+277,35,20/6ZB Ethernet Switch Healthy,206-ESWP2,0
+278,35,20/6ZB Signal Lamp Healthy,206-ECP,0
+279,35,20/12ZB Power Healthy,2012-POP2,0
+280,35,20/12ZB Site Healthy,2012-HLTP,0
+281,36,20/12ZB Ethernet Switch Healthy,2012-ESWP2,0
+282,36,20/20ZB Power Healthy,2020-POP2,0
+283,36,20/20ZB Site Healthy,2020-HLTP,0
+284,36,20/20ZB Ethernet Switch Healthy,2020-ESWP2,0
+285,36,20/20ZB Signal Lamp Healthy,2020-ECP,0
+286,36,20/10ZB Power Healthy,2010-POP2,0
+287,36,20/10ZB Site Healthy,2010-HLTP,0
+288,36,20/10ZB Ethernet Switch Healthy,2010-ESWP2,0
+289,37,20/10ZB Signal Lamp Healthy,2010-ECP,0
+290,37,20/30ZB Power Healthy,2030-POP2,0
+291,37,20/30ZB Site Healthy,2030-HLTP,0
+292,37,20/30ZB Ethernet Switch Healthy,2030-ESWP2,0
+293,37,20/30ZB Signal Lamp Healthy,2030-ECP,0
+294,37,20/26ZB Power Healthy,2026-POP2,0
+295,37,20/26ZB Site Healthy,2026-HLTP,0
+296,37,20/26ZB Ethernet Switch Healthy,2026-ESWP2,0
+297,38,20/26ZB Signal Lamp Healthy,2026-ECP,0
+298,38,GGG802 Site Healthy,802-HLTP2,0
+299,38,20/36ZB Power Healthy,2036-POP3,0
+300,38,20/40ZB Power Healthy,2040-POP3,0
+301,38,A20/14 Power Healthy,A2014-POP3,0
+302,38,A20/20 Power Healthy,A2020-POP3,0
+303,38,LVL1 Ethernet Switch Healthy,LVL1-ESWP2,0
+304,38,SPARE,SPARE,0
+305,39,LVL1EC5-724VHLC Vital Link Healthy,724-LKP,0
+306,39,LVL1EC5-10/30VHLC Vital Link Healthy,1030-LKP,0
+307,39,LVL1EC5-10/28VHLC Vital Link Healthy,1028-LKP,0
+308,39,LVL1EC5-10/26VHLC Vital Link Healthy,1026-LKP,0
+309,39,LVL1EC5-15/10VHLC Vital Link Healthy,1510-LKP,0
+310,39,LVL1EC5-15/30VHLC Vital Link Healthy,1530-LKP,0
+311,39,LVL1EC5-15/26VHLC Vital Link Healthy,1526-LKP,0
+312,39,LVL1EC5-20/6VHLC Vital Link Healthy,206-LKP,0
+313,40,LVL1EC5-20/12VHLC Vital Link Healthy,2012-LKP,0
+314,40,LVL1EC5-20/20VHLC Vital Link Healthy,2020-LKP,0
+315,40,LVL1EC5-20/10VHLC Vital Link Healthy,2010-LKP,0
+316,40,LVL1EC5-20/30VHLC Vital Link Healthy,2030-LKP,0
+317,40,LVL1EC5-20/26VHLC Vital Link Healthy,2026-LKP,0
+318,40,SPARE,SPARE,0
+319,40,SPARE,SPARE,0
+320,40,SPARE,SPARE,0
+321,41,Test/Maintenance Indications,1030-TPP,0
+322,41,Test/Maintenance Indications,1028-TPP,0
+323,41,Test/Maintenance Indications,11-TPP,0
+324,41,Test/Maintenance Indications,1530-TPP,0
+325,41,Test/Maintenance Indications,206-TPP,0
+326,41,Test/Maintenance Indications,2010-TPP,0
+327,41,Test/Maintenance Indications,2012-TPP,0
+328,41,Test/Maintenance Indications,17-TPP,0
+329,42,Test/Maintenance Indications,21-TPP,0
+330,42,Test/Maintenance Indications,2030-TPP,0
+331,42,Test/Maintenance Indications,2032-TPP,0
+332,42,Test/Maintenance Indications,2036-TPP,0
+333,42,Test/Maintenance Indications,29-TPP,0
+334,42,Test/Maintenance Indications,27-TPP,0
+335,42,SPARE,SPARE,0
+336,42,SPARE,SPARE,0
+337,43,Test/Maintenance Indications,C15-6-S,0
+338,43,Test/Maintenance Indications,C20-6-S,0
+339,43,Test/Maintenance Indications,C20-36-S,0
+340,43,Test/Maintenance Indications,SPARE,0
+341,43,Test/Maintenance Indications,C20-26-S,0
+342,43,SPARE,SPARE,0
+343,43,SPARE,SPARE,0
+344,43,SPARE,SPARE,0
+345,44,Test/Maintenance Indications,707-SGDAP,0
+346,44,Test/Maintenance Indications,456AB-UH,0
+347,44,Test/Maintenance Indications,1030AB-UH,0
+348,44,Test/Maintenance Indications,1030BA-UH,0
+349,44,Test/Maintenance Indications,1030BA-OH,0
+350,44,Test/Maintenance Indications,1028AB-UH,0
+351,44,Test/Maintenance Indications,1028AB-OH,0
+352,44,Test/Maintenance Indications,1028BA-UH,0
+353,45,Test/Maintenance Indications,1028BA-OH,0
+354,45,Test/Maintenance Indications,457AB-UH,0
+355,45,Test/Maintenance Indications,457AB-OH,0
+356,45,Test/Maintenance Indications,457BA-UH,0
+357,45,Test/Maintenance Indications,457BA-OH,0
+358,45,Test/Maintenance Indications,11AC-UH,0
+359,45,Test/Maintenance Indications,11AC-OH,0
+360,45,Test/Maintenance Indications,11BC-UH,0
+361,46,Test/Maintenance Indications,11CA-UH,0
+362,46,Test/Maintenance Indications,11CA-OH,0
+363,46,Test/Maintenance Indications,11CB-UH,0
+364,46,Test/Maintenance Indications,564AB-UH,0
+365,46,Test/Maintenance Indications,564BA-UH,0
+366,46,Test/Maintenance Indications,564BA-OH,0
+367,46,Test/Maintenance Indications,1530AB-UH,0
+368,46,Test/Maintenance Indications,1530AB-OH,0
+369,47,Test/Maintenance Indications,1530BA-UH,0
+370,47,Test/Maintenance Indications,1530BA-OH,0
+371,47,Test/Maintenance Indications,584AB-UH,0
+372,47,Test/Maintenance Indications,584BA-UH,0
+373,47,Test/Maintenance Indications,206AB-UH,0
+374,47,Test/Maintenance Indications,206BA-UH,0
+375,47,Test/Maintenance Indications,206BA-OH,0
+376,47,Test/Maintenance Indications,208AB-UH,0
+377,48,Test/Maintenance Indications,208BA-UH,0
+378,48,Test/Maintenance Indications,208BA-OH,0
+379,48,Test/Maintenance Indications,7AD-UH,0
+380,48,Test/Maintenance Indications,7BD-UH,0
+381,48,Test/Maintenance Indications,7CD-UH,0
+382,48,Test/Maintenance Indications,7DA-UH,0
+383,48,Test/Maintenance Indications,7DA-OH,0
+384,48,Test/Maintenance Indications,7DB-UH,0
+385,49,Test/Maintenance Indications,7DB-OH,0
+386,49,Test/Maintenance Indications,7DC-UH,0
+387,49,Test/Maintenance Indications,7DC-OH,0
+388,49,Test/Maintenance Indications,17AC-UH,0
+389,49,Test/Maintenance Indications,17BC-UH,0
+390,49,Test/Maintenance Indications,17CA-UH,0
+391,49,Test/Maintenance Indications,17CA-OH,0
+392,49,Test/Maintenance Indications,17CB-UH,0
+393,50,Test/Maintenance Indications,17CB-OH,0
+394,50,Test/Maintenance Indications,21AC-UH,0
+395,50,Test/Maintenance Indications,21BC-UH,0
+396,50,Test/Maintenance Indications,21CA-UH,0
+397,50,Test/Maintenance Indications,21CA-OH,0
+398,50,Test/Maintenance Indications,21CB-UH,0
+399,50,Test/Maintenance Indications,21CB-OH,0
+400,50,Test/Maintenance Indications,2010AB-UH,0
+401,51,Test/Maintenance Indications,2010AB-OH,0
+402,51,Test/Maintenance Indications,2010BA-UH,0
+403,51,Test/Maintenance Indications,2012AB-UH,0
+404,51,Test/Maintenance Indications,2012AB-OH,0
+405,51,Test/Maintenance Indications,2012BA-UH,0
+406,51,Test/Maintenance Indications,A2014AB-UH,0
+407,51,Test/Maintenance Indications,A2014BA-UH,0
+408,51,Test/Maintenance Indications,A2016BA-UH,0
+409,52,Test/Maintenance Indications,A2020BA-UH,0
+410,52,Test/Maintenance Indications,6AB-UH,0
+411,52,Test/Maintenance Indications,6BA-UH,0
+412,52,Test/Maintenance Indications,26AB-UH,0
+413,52,Test/Maintenance Indications,26BA-UH,0
+414,52,Test/Maintenance Indications,A2036AB-UH,0
+415,52,Test/Maintenance Indications,A2036BA-UH,0
+416,52,Test/Maintenance Indications,2036AB-UH,0
+417,53,Test/Maintenance Indications,2036BA-UH,0
+418,53,Test/Maintenance Indications,SPARE,0
+419,53,Test/Maintenance Indications,2030AB-UH,0
+420,53,Test/Maintenance Indications,2030BA-UH,0
+421,53,Test/Maintenance Indications,2030BA-OH,0
+422,53,Test/Maintenance Indications,2032AB-UH,0
+423,53,Test/Maintenance Indications,2032BA-UH,0
+424,53,Test/Maintenance Indications,2032BA-OH,0
+425,54,Test/Maintenance Indications,27AB-UH,0
+426,54,Test/Maintenance Indications,27AC-UH,0
+427,54,Test/Maintenance Indications,27BA-UH,0
+428,54,Test/Maintenance Indications,27CA-UH,0
+429,54,Test/Maintenance Indications,29AB-UH,0
+430,54,Test/Maintenance Indications,29AC-UH,0
+431,54,Test/Maintenance Indications,29BA-UH,0
+432,54,Test/Maintenance Indications,29CA-UH,0
+433,55,SPARE,802BA-UH,0
+434,55,SPARE,SPARE,0
+435,55,SPARE,SPARE,0
+436,55,SPARE,SPARE,0
+437,55,SPARE,SPARE,0
+438,55,SPARE,SPARE,0
+439,55,SPARE,SPARE,0
+440,55,SPARE,SPARE,0
+441,56,Test/Maintenance Indications,10-30-RSR,0
+442,56,Test/Maintenance Indications,10-26-RSR,0
+443,56,Test/Maintenance Indications,15-6A-RSR,0
+444,56,Test/Maintenance Indications,15-6B-RSR,0
+445,56,Test/Maintenance Indications,15-10-RSR,0
+446,56,Test/Maintenance Indications,15-12-RSR,0
+447,56,Test/Maintenance Indications,15-30-RSR,0
+448,56,Test/Maintenance Indications,15-26-RSR,0
+449,57,Test/Maintenance Indications,20-6A-RSR,0
+450,57,Test/Maintenance Indications,20-6B-RSR,0
+451,57,Test/Maintenance Indications,20-6C-RSR,0
+452,57,Test/Maintenance Indications,20-6D-RSR,0
+453,57,Test/Maintenance Indications,20-6E-RSR,0
+454,57,Test/Maintenance Indications,20-10-RSR,0
+455,57,Test/Maintenance Indications,20-12-RSR,0
+456,57,Test/Maintenance Indications,20-14-RSR,0
+457,58,Test/Maintenance Indications,20-16-RSR,0
+458,58,Test/Maintenance Indications,20-20-RSR,0
+459,58,Test/Maintenance Indications,20-26A-RSR,0
+460,58,Test/Maintenance Indications,20-26B-RSR,0
+461,58,Test/Maintenance Indications,20-26C-RSR,0
+462,58,Test/Maintenance Indications,20-30-RSR,0
+463,58,Test/Maintenance Indications,20-32-RSR,0
+464,58,Test/Maintenance Indications,20-34-RSR,0
+465,59,Test/Maintenance Indications,20-36-RSR,0
+466,59,Test/Maintenance Indications,20-40-RSR,0
+467,59,SPARE,SPARE,0
+468,59,SPARE,SPARE,0
+469,59,SPARE,SPARE,0
+470,59,SPARE,SPARE,0
+471,59,SPARE,SPARE,0
+472,59,SPARE,SPARE,0
+473,60,Test/Maintenance Indications,10-30-RLR,0
+474,60,Test/Maintenance Indications,10-26-RLR,0
+475,60,Test/Maintenance Indications,15-6A-RLR,0
+476,60,Test/Maintenance Indications,15-6B-RLR,0
+477,60,Test/Maintenance Indications,15-10-RLR,0
+478,60,Test/Maintenance Indications,15-12-RLR,0
+479,60,Test/Maintenance Indications,15-30-RLR,0
+480,60,Test/Maintenance Indications,15-26-RLR,0
+481,61,Test/Maintenance Indications,20-6A-RLR,0
+482,61,Test/Maintenance Indications,20-6B-RLR,0
+483,61,Test/Maintenance Indications,20-6C-RLR,0
+484,61,Test/Maintenance Indications,20-6D-RLR,0
+485,61,Test/Maintenance Indications,20-6E-RLR,0
+486,61,Test/Maintenance Indications,20-10-RLR,0
+487,61,Test/Maintenance Indications,20-12-RLR,0
+488,61,Test/Maintenance Indications,20-14-RLR,0
+489,62,Test/Maintenance Indications,20-16-RLR,0
+490,62,Test/Maintenance Indications,20-20-RLR,0
+491,62,Test/Maintenance Indications,20-36-RLR,0
+492,62,Test/Maintenance Indications,20-40-RLR,0
+493,62,Test/Maintenance Indications,20-30-RLR,0
+494,62,Test/Maintenance Indications,20-32-RLR,0
+495,62,Test/Maintenance Indications,20-34-RLR,0
+496,62,Test/Maintenance Indications,20-26A-RLR,0
+497,63,Test/Maintenance Indications,20-26B-RLR,0
+498,63,Test/Maintenance Indications,20-26C-RLR,0
+499,63,SPARE,SPARE,0
+500,63,SPARE,SPARE,0
+501,63,SPARE,SPARE,0
+502,63,SPARE,SPARE,0
+503,63,SPARE,SPARE,0
+504,63,SPARE,SPARE,0
+505,64,Test/Maintenance Indications,A10-30-DGEP,0
+506,64,Test/Maintenance Indications,A10-30-DGOP2,0
+507,64,Test/Maintenance Indications,A10-30-HGEP,0
+508,64,Test/Maintenance Indications,A10-30-HGOP2,0
+509,64,Test/Maintenance Indications,A10-30-NGEP,0
+510,64,Test/Maintenance Indications,A10-30-NGOP2,0
+511,64,Test/Maintenance Indications,B10-30-DGEP,0
+512,64,Test/Maintenance Indications,B10-30-DGOP2,0

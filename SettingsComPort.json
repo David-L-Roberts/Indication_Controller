@@ -1,0 +1,7 @@
+{
+    "ServerIP": "10.205.184.210",
+    "ServerPort": 22787,
+    "ReadTimeoutSec": 3,
+    "csvFolder": "Data",
+    "DataTemplate": "resources/DataTemplate-02.csv"
+}
