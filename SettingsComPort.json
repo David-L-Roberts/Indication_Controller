@@ -3,5 +3,6 @@
     "ServerPort": 22787,
     "ReadTimeoutSec": 3,
     "csvFolder": "Data",
-    "DataTemplate": "resources/DataTemplate-02.csv"
+    "DataTemplate": "resources/DataTemplate-02.csv",
+    "TargetGenAddr": 20
 }

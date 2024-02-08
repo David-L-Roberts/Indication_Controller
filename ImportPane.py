@@ -120,4 +120,4 @@ class ImportPane(MessagePane):
 
     def __upload_button_event(self):
         self._send_message()
-        Log.log("Data upload success.")
+        Log.log("Data upload in progress...")

@@ -46,7 +46,13 @@ class SocketReader():
             Log.log(f"No Data Recieved after {self.maxWaitSec} sec", logFlag="|WARNING|")
         else:
             Log.log(f"Rx Data: {self._currentMessageStr}")
-            Log.log(f"Rx Message Type: {self.getMessageType()}")
+            msgType = self.getMessageType()
+            Log.log(f"Rx Message Type: {msgType}")
+            if msgType == msgTypeLookup["F1"]:
+                Log.log("Data upload success.")
+            else:
+                Log.log("Data upload success.", logFlag="|WARNING|")
+                
 
     def __generateStrMessage(self):
         self._currentMessageStr = ""

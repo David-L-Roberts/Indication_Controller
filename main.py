@@ -9,7 +9,7 @@ from ImportPane import ImportPane
 from ExportPane import ExportPane
 from TerminalPane import TerminalPane
 from SetttingsPane import SettingsPane
-from Utils import load_settings
+from Utils import SETTINGS
 from Logging import Log
 
 ctk.set_appearance_mode("Light")         # Modes: "System" (standard), "Dark", "Light"
@@ -58,15 +58,14 @@ class MainApp:
 # ---------------------------- MAIN FUNCTION ------------------------------- #
 
 def main():
-    settings = load_settings()
-    serverAddress = (settings["ServerIP"], settings["ServerPort"])
+    serverAddress = (SETTINGS["ServerIP"], SETTINGS["ServerPort"])
 
     with ClientSocket(serverAddress) as sock: 
         root = ctk.CTk()
         mainApp = MainApp(
             root=root,
             tcpSocket=sock,
-            settings=settings
+            settings=SETTINGS
         )
         mainApp.root.mainloop()
 

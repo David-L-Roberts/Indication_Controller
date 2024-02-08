@@ -4,7 +4,7 @@ from SocketWriter import SocketWriter
 from SocketReader import SocketReader
 import pandas as pd
 from Logging import Log
-
+from Utils import SETTINGS
 
 class MessagePane:
     """Base class for message construct widget."""
@@ -21,7 +21,7 @@ class MessagePane:
         self.col = column
         self.messageData = MsgGen()
         self.messageData.setMessageType(messageType)
-        self.messageData.setDestAddress(30)
+        self.messageData.setDestAddress(SETTINGS["TargetGenAddr"])
 
         # base frame for holding all message pane widgets
         self.baseFrame = ctk.CTkFrame(master=self.root)
