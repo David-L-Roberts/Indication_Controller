@@ -46,7 +46,7 @@ class IndicationPane(MessagePane):
 
         self.setBit_label = ctk.CTkLabel(
             master=self.setBit_frame,
-            text="Set IND bit",
+            text="Set IND bit 1",
             font=ctk.CTkFont(size=15, weight="bold")
         )
         self.setBit_label.grid(row=0, column=0, pady=(5, 5), columnspan=3)
@@ -137,7 +137,7 @@ class IndicationPane(MessagePane):
 
         self.resetBit_label = ctk.CTkLabel(
             master=self.resetBit_frame,
-            text="Reset IND bit",
+            text="Set IND bit 2",
             font=ctk.CTkFont(size=15, weight="bold")
         )
         self.resetBit_label.grid(row=0, column=0, pady=(5, 5), columnspan=3)

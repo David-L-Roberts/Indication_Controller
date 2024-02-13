@@ -23,7 +23,7 @@ class MainApp:
         # TCP client socket
         self.socket = tcpSocket
         self.socketWriter = SocketWriter(sock=self.socket)
-        self.socketReader = SocketReader(sock=self.socket, maxWaitSec=settings["ReadTimeoutSec"])
+        self.socketReader = SocketReader(sock=self.socket, sockWriter=self.socketWriter, maxWaitSec=settings["ReadTimeoutSec"])
 
         # GUI setup
         self.root = root

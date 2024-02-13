@@ -60,7 +60,7 @@ class MessagePane:
         Log.log(f"Tx Data: {self.messageData.getMessageAsString()}")
         Log.log(f"Tx Message Type: {self.messageData.getMessageTypeName()}")
 
-        MessagePane.sockReader.readFromSocket()
+        # MessagePane.sockReader.readFromSocket()
     
     def _csv_to_dataframe(self, filepath):
         """Take a file path to an indication_csv, and open it into a dataframe.
